@@ -19,11 +19,7 @@ A simple and fun command-line number guessing game written in Python. The comput
 
 ## How to Run
 
-1. Clone the repository or download the file:
-   ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
-   ```
+1. Clone the repository or download the file
 
 2. Run the game:
    ```bash
@@ -48,10 +44,10 @@ Enter Your Name: Alex
 -----------Welcome to the number guessing game----------
 Rules
 1.You have to guess a number between 1 to 100
-2.if the number you choose is also choosen by the computer you win
-3.if the number is incorrect the computer will tell you that the choosen number is higher or lower than your number
+2.if the number you choose is also chosen by the computer you win
+3.if the number is incorrect the computer will tell you that the chosen number is higher or lower than your number
 4.You will get 7 chances to guess the number 
-5.If you failed to guess the nummber in given chances you will lose
+5.If you failed to guess the number in given chances you will lose
 start the game(y/n)y
 -----------All the best-----------
 ----------- Enjoy the game----------
@@ -89,6 +85,4 @@ You have 5 chances left
 - Entering a number outside the range 1–100 does **not** reduce your remaining attempts.
 - The secret number is generated randomly every new game.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
